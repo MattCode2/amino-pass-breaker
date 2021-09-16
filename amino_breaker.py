@@ -36,7 +36,7 @@ def login(jargs):
             print("failed to login with " + jargs)
         
     except:
-        print("f")
+        print("fail to crack")
         #amino.exceptions.InvalidAccountOrPassword 
         #print("amino breaker could not crack the password")
                 
