@@ -1,1 +1,1 @@
-# amino-pass-breaker
+# pip install -r requirements.txt
